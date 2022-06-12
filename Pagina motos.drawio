@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-12T10:17:36.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="1p9h1E-L9Sl0Ipp2X0ak" version="20.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-12T10:18:13.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="T8ftJ2cMf0QAlFfVygLH" version="20.0.0" type="github" pages="2">
   <diagram id="kb5ggptceWDiAB8Re5l4" name="Page-1">
     <mxGraphModel dx="1880" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -528,16 +528,16 @@
         <mxCell id="THkxeWYbQWyZXvhPjeUA-10" value="_id" style="ellipse;whiteSpace=wrap;html=1;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="140" y="300" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="THkxeWYbQWyZXvhPjeUA-12" value="Rutas" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="THkxeWYbQWyZXvhPjeUA-12" value="Posición" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="60" y="350" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="THkxeWYbQWyZXvhPjeUA-13" value="Ruta 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
+        <mxCell id="THkxeWYbQWyZXvhPjeUA-13" value="Posición 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="THkxeWYbQWyZXvhPjeUA-14" value="Ruta 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
+        <mxCell id="THkxeWYbQWyZXvhPjeUA-14" value="Posición 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="THkxeWYbQWyZXvhPjeUA-15" value="Ruta 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
+        <mxCell id="THkxeWYbQWyZXvhPjeUA-15" value="Posición 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#FF0000;" vertex="1" parent="THkxeWYbQWyZXvhPjeUA-12">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
